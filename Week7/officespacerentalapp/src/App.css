@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  border-radius: 10px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,73 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.app {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.controls {
+  margin: 20px 0;
+  padding: 15px;
+  background: #f0f0f0;
+  border-radius: 5px;
+}
+
+.render-method-selector {
+  margin-top: 10px;
+}
+
+.component-nav {
+  margin: 20px 0;
+  display: flex;
+  gap: 10px;
+}
+
+.component-nav button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.component-container,
+.component-list {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.book-details,
+.blog-details,
+.course-details {
+  padding: 15px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 8px 16px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.admin-badge {
+  color: red;
+  font-size: 0.8em;
+}
+
+.admin-controls,
+.admin-actions,
+.admin-options {
+  background-color: #ffecec;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.list-item {
+  margin-bottom: 20px;
+}
